@@ -24,8 +24,7 @@ oferecendo ao consumidor uma experiência educativa baseada em ciência e confro
 2. O **Agente Crítico** responde primeiro.
 3. Em seguida, o **Agente Contraponto** apresenta sua resposta.
 4. O **Agente Juiz** analisa as duas respostas e atribui um ponto ao agente com melhor argumentação.
-5. Esse processo se repete por **6 rounds**.
-6. Ao final, o Juiz declara o resultado da partida: vitória de um dos lados ou empate.
+5. Ao final, o Juiz declara o resultado da partida: vitória de um dos lados ou empate.
 
 ## 🧪 Tecnologias Utilizadas
 
